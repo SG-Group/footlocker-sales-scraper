@@ -1,0 +1,17 @@
+{
+  "name": "footlocker-sales-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "sequelize": "^6.19.0",
+    "sqlite3": "^5.0.6"
+  }
+}
